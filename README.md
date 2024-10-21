@@ -1,11 +1,20 @@
-This is the ReadMe file for my github repository where I upload my weekly Assignments fo the Python for Data Science Course.
-Week 1: 
+# This is the ReadMe file for my github repository: pythonsessions 
+ - each week has its own folder
+ - each folder contains the weekly exercises for that week and a Readme file with more information regardings its structure etc. 
+ - there is an own branch for every weekly exercise
+
+
+# Week 1: 
   Python_Excerise_1.ipynb
-Week 2:
+  ## Strcuture:
+  - still to be added (readme)
+# Week 2:
   PythonExcercise2.ipynb
-Week 3:
+  ## Strcuture:
+  - still to be added (readme)
+# Week 3:
   session_3_exercises.ipynb
-  Structure:
+  ## Structure:
     - The file first contains some examples regarding Object Orientiated Programming (OOP) which was disussed during the lecture.
     - In the second half of the file, there are some Hands on Excercises and Homework which ount as the weekly exercises for our Python course.
     - The following excersices regading OOP were done as homework:
@@ -23,4 +32,11 @@ Week 3:
           Show all the enrolled courses.
           Show all the students.
     4. Let's add grades to each student's course and create method that yields the GPA given a student name or ID.
-
+ # Week 4:
+  - still to be added (notebook)
+  ## Strcuture:
+  - still to be added (readme)
+ # Week 5:
+  - still to be added (notebook)
+  ## Strcuture:
+  - still to be added (readme)
