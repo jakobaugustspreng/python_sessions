@@ -1,11 +1,12 @@
 This is the ReadMe file for my github repository where I upload my weekly Assignments fo the Python for Data Science Course.
-Week 1: 
+
+# Week 1: 
   Python_Excerise_1.ipynb
-Week 2:
+# Week 2:
   PythonExcercise2.ipynb
-Week 3:
+# Week 3:
   session_3_exercises.ipynb
-  Structure:
+  ## Structure:
     - The file first contains some examples regarding Object Orientiated Programming (OOP) which was disussed during the lecture.
     - In the second half of the file, there are some Hands on Excercises and Homework which ount as the weekly exercises for our Python course.
     - The following excersices regading OOP were done as homework:
