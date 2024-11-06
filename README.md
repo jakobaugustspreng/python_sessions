@@ -56,6 +56,7 @@
         str class has a method called split, you can use it to get each field per annotation.
         you can use sort from numpy on strings.
  # Week 5:
+    The file for the exercises can be found in the Folder: Session 5 with the file name: session_5.ipynb
   ## Strcuture:
       Reusing the same annotations we work with in the previous session, answer the following items using the libraries we saw today: 
       - How many annotations you have per month and year. Which month has more annotation files.
