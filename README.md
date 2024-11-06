@@ -61,3 +61,19 @@
       - How many annotations you have per month and year. Which month has more annotation files.
       - Create a dictionary where each **key** is a month, and the corresponding **value** is a list containing all the annotation names with where their date corresponds to the month. 
       - Print all the annotations from the oldest ones to the newest one during the seconf half of the 2024. 
+
+ # Week 6:
+  The Homework execises can be found at the end of the session_6.ipynb file
+  ## Strcuture:
+    Home exercises for Netflix:
+  1. Is there any missing rating?
+  2. How many films in 2021 correspond to your country?
+  3. What's the number of movies in 2020 with full information?
+  4. Give me the year with more titles,
+  5. and what has been the average in terms of releases from 2010. 
+
+  And for Titanic:
+
+  1. Calculate Gender-Based Survival Percentage
+
+  2. Calculate Survival Percentage Grouped by Gender and Class
