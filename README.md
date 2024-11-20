@@ -78,3 +78,12 @@
   1. Calculate Gender-Based Survival Percentage
 
   2. Calculate Survival Percentage Grouped by Gender and Class
+
+  # Week 7:
+  The Homework execises can be found at the end of the session_7.ipynb file
+  ## Strcuture:
+   1. Create a new column called **professor_initials** that stores the initials of each professor's first and last names. Use the following data:
+   2. Given the dataframe below. Use **join** to combine this new DataFrame with the original one based on the professor column.
+   3. Combine the original df and df_courses DataFrames.
+   4. In the professor column, create a new column professor_last_name by extracting the last name of each professor using string operations.
+   
