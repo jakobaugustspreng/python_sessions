@@ -87,3 +87,5 @@
    3. Combine the original df and df_courses DataFrames.
    4. In the professor column, create a new column professor_last_name by extracting the last name of each professor using string operations.
    
+  # Week 8:
+  to be added 
