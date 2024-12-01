@@ -88,4 +88,10 @@
    4. In the professor column, create a new column professor_last_name by extracting the last name of each professor using string operations.
    
   # Week 8:
-  to be added 
+  The Homework execises can be found at the end of the session_8(1).ipynb file
+  1. Create a *lineplot* showing how **Study Time** varies by **Student Name**. Which student has the highest study time?
+  2. Plot a histogram (*histplot*) of **Grade** and determine which grade range has the highest frequency of students.
+  3. Create an ECDF plot (*ecdfplot*) for **Grade**. What is the percentage of students scoring less than 85?
+  4. Create a *stripplot* showing **Grade** distribution for each **Course**. Which course has the most spread in grades?
+  5. Create a *swarmplot* to show the relationship between Gender and **Study Time**. Which gender has a higher average study time?
+  6. Plot a *pointplot* to show the average **Grade** for each Course. Which course has the highest average grade?
