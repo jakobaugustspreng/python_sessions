@@ -1,19 +1,18 @@
 # This is the ReadMe file for my github repository: pythonsessions 
- - each week has its own folder
- - each folder contains the weekly exercises for that week and a Readme file with more information regardings its structure etc. 
+ - each week has its own folder containing the the weekly notebook 
  - there is an own branch for every weekly exercise
 
 
 # Week 1: 
-  Python_Excerise_1.ipynb
+  The Homework execises can be found at the end of the session_1.ipynb file
   ## Strcuture:
 
 # Week 2:
-  PythonExcercise2.ipynb
+  The Homework execises can be found at the end of the session_2.ipynb file
   ## Strcuture:
   
 # Week 3:
-  session_3_exercises.ipynb
+  The Homework execises can be found at the end of the session_3.ipynb file
   ## Structure:
     - The file first contains some examples regarding Object Orientiated Programming (OOP) which was disussed during the lecture.
     - In the second half of the file, there are some Hands on Excercises and Homework which ount as the weekly exercises for our Python course.
@@ -32,7 +31,9 @@
           Show all the enrolled courses.
           Show all the students.
     4. Let's add grades to each student's course and create method that yields the GPA given a student name or ID.
+
  # Week 4:
+ The Homework execises can be found at the end of the session_4.ipynb file
   ## Strcuture:
     - Given a zip file with a subfolder with multiple annotations, where the name convention for each one of them is:
       {DATE}{TIME}_SN{SATELLITE_NUMBER}_QUICKVIEW_VISUAL{VERSION}_{UNIQUE_REGION}.txt
@@ -55,8 +56,9 @@
 
         str class has a method called split, you can use it to get each field per annotation.
         you can use sort from numpy on strings.
+
  # Week 5:
-    The file for the exercises can be found in the Folder: Session 5 with the file name: session_5.ipynb
+  The Homework execises can be found at the end of the session_5.ipynb file
   ## Strcuture:
       Reusing the same annotations we work with in the previous session, answer the following items using the libraries we saw today: 
       - How many annotations you have per month and year. Which month has more annotation files.
@@ -72,11 +74,8 @@
   3. What's the number of movies in 2020 with full information?
   4. Give me the year with more titles,
   5. and what has been the average in terms of releases from 2010. 
-
   And for Titanic:
-
   1. Calculate Gender-Based Survival Percentage
-
   2. Calculate Survival Percentage Grouped by Gender and Class
 
   # Week 7:
@@ -88,6 +87,7 @@
    4. In the professor column, create a new column professor_last_name by extracting the last name of each professor using string operations.
    
   # Week 8:
+  ## Strcuture:
   The Homework execises can be found at the end of the session_8(1).ipynb file
   1. Create a *lineplot* showing how **Study Time** varies by **Student Name**. Which student has the highest study time?
   2. Plot a histogram (*histplot*) of **Grade** and determine which grade range has the highest frequency of students.
